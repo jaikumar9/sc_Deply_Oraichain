@@ -307,6 +307,7 @@ dependencies = [
 name = "cw721-nft"
 version = "0.1.0"
 dependencies = [
+ "cosmwasm-derive",
  "cosmwasm-schema",
  "cosmwasm-std",
  "cosmwasm-storage",
